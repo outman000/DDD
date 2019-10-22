@@ -34,7 +34,7 @@ namespace Christ3D.Domain.Models
         public DateTime BirthDate { get; private set; }
 
         /// <summary>
-        /// 户籍
+        /// 户籍(值对象) 
         /// </summary>
         public Address Address { get; private set; }
 
